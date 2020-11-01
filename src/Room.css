@@ -1,0 +1,12 @@
+.room {
+    height: 100%;
+}
+
+.Lit{
+    background-color: black;
+color : white }
+
+.Dark{
+    background-color: white;
+color : black
+}
